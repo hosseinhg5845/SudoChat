@@ -1,0 +1,15 @@
+name: SudoChat
+version: 1.3
+main: hg5845.sudoChat.SudoChat
+api-version: 1.20
+commands:
+  sudochat:
+    description: Send a chat message as another player
+    usage: /sudochat <player> <message>
+    permissions:
+      sudochat.use:
+        description: Allows using the sudochat command
+        default: op
+      sudochat.bypass:
+        description: Players with this permission cannot be sudoed
+        default: op
