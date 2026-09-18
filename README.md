@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - Send chat messages as any online player
 - Permission-based access (`sudochat.use`)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Download the latest `SudoChat-x.x.jar` from [Releases](../../releases).
 2. Drop it into your server's `plugins/` folder.
@@ -27,4 +27,6 @@
 
 ---
 
-## 🕹️ Usage
+## Usage
+
+(`/sudochat <player> 26`)
