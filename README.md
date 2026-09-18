@@ -5,7 +5,6 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green)
 ![Paper](https://img.shields.io/badge/Platform-Paper-blue)
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
